@@ -1,4 +1,8 @@
 package cn.itcast_firstactivity;
+/**
+ * @author Kelvin
+ * @version V1.0
+ */
 
 import android.app.Activity;
 import android.content.Context;
